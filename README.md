@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análisis Predictivo y Modelamiento de Sistema de Control de Acceso RFID
 
 Este proyecto es un sistema integral de control de acceso utilizando hardware embebido (Arduino + Módulo RFID RC522) combinado con una robusta tubería (pipeline) de **Ciencia de Datos** y **Machine Learning**. El objetivo principal es ir más allá del simple registro de entradas y salidas, implementando modelamiento matemático para el análisis de flujo y algoritmos predictivos para anticipar la congestión en un entorno de *Smart Campus* o edificio corporativo.
@@ -103,3 +104,6 @@ pip install pyserial pandas numpy matplotlib seaborn scikit-learn plotly openpyx
 
 ## 👨‍💻 Autor
 Desarrollado para la integración de sistemas de hardware IoT, modelamiento matemático y Machine Learning aplicado a la ingeniería predictiva.
+=======
+# SmartAccess
+>>>>>>> 7977f83eb333372b85966d613f96efdd986eca89
