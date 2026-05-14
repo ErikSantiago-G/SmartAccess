@@ -102,8 +102,6 @@ pip install pyserial pandas numpy matplotlib seaborn scikit-learn plotly openpyx
 
 ---
 
-## 👨‍💻 Autor
-Desarrollado para la integración de sistemas de hardware IoT, modelamiento matemático y Machine Learning aplicado a la ingeniería predictiva.
-=======
+## 👨‍💻 Autor Erik Santiago García Gonzalez
 # SmartAccess
 >>>>>>> 7977f83eb333372b85966d613f96efdd986eca89
